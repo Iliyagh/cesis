@@ -1,5 +1,5 @@
 My Environment 2017
-by Bogdan Ezhlov (c);
+
 
 
 Installing:

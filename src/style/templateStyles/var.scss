@@ -3,18 +3,23 @@
 // $Roboto-Regular: "Roboto";
 // $Roboto-Thin: "Roboto-Thin";
 // $Roboto: "Roboto";
-$test: #000;
-$re: #fff;
-$font: "AvenirNextCyrDemi";
+$Poppins-Regular: 'PoppinsRegular';
+$Poppins-Light: 'PoppinsLight';
+$Poppins-Black: 'PoppinsBlack';
+$Poppins-Medium: 'PoppinsMedium';
+$Poppins-Semi:'PoppinsSemiBold';
+// $test: #000;
+// $re: #fff;
+// $font: "AvenirNextCyrDemi";
 /*Variables for color*/
-// $white-color: #fff;
-// $black-color: #000;
+$white-color: #fff;
+
 // $yellow-color: #caa563;
 // $btn-color: #d4af6b;
 // $orange-color: #cd4a04;
 // $hover-yellow-btn: #d3a654;
 // $hover-orange-btn: #b44103;
-
+   
 /* Variables for structure */
 // $large-desktop-container-width: 1170px;
 // $desktop-container-width: 800px;
@@ -38,7 +43,7 @@ $font: "AvenirNextCyrDemi";
 /*Variables for color*/
 // $main-bg-color: #F3F3F5;
 // $white-color: #fff;
-// $black-color: #000;
+$black-color: #000;
 // $main-blue-color: #3891FF;
 // $dark-gray: #424242;
 // $placeholder-color: #9B9B9B;
@@ -72,3 +77,9 @@ $font: "AvenirNextCyrDemi";
 //
 // $blue-btn-bg: #6767ff;
 // $red-btn-bg: #D32F2F;
+$navbar-color: #818586;
+$text-gray-color: #72787a;
+$bg-active: #7443ff;
+$text-blue: #7443ff; 
+$input-border: #D7D7D7;
+$border-line-color: #E5E5E5;
